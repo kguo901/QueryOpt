@@ -2,5 +2,9 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/kathy/Downloads/mysql-socket-factory-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kathy/Downloads/javaee-api-6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kathy/Downloads/appengine-tools-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kathy/Downloads/mysql-connector-java-5.1.44/mysql-connector-java-5.1.44/mysql-connector-java-5.1.44-bin.jar" sourcepath="C:/Users/kathy/Downloads/mysql-connector-java-5.1.44/mysql-connector-java-5.1.44/src"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
